@@ -1,0 +1,15 @@
+platform: Windows-11-10.0.26200-SP0
+python: 3.12.10
+os.cpu_count: 16
+Name                      : AMD Ryzen 7 5825U with Radeon Graphics         
+NumberOfCores             : 8
+NumberOfLogicalProcessors : 16
+L2CacheSize               : 4096
+L3CacheSize               : 16384
+MaxClockSpeed             : 2000
+Capacity Speed ConfiguredClockSpeed DeviceLocator
+  -------- ----- -------------------- -------------
+8589934592  3200                 3200 DIMM 0       
+8589934592  3200                 3200 DIMM 0
+16538972160
+GUID беҐ¬л ЇЁв ­Ёп: 381b4222-f694-41f0-9685-ff5bb260df2e  (‘Ў « ­бЁа®ў ­­ п)
