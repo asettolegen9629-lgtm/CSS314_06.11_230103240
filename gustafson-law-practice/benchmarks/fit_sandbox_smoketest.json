@@ -1,0 +1,23 @@
+{
+  "alpha_observed": 1.0617383532917102,
+  "alpha_std_error": 0.01262682888339501,
+  "slope": -0.061738353291710214,
+  "r_squared": 0.41445738000870114,
+  "T1_mean_s": 0.021867643799998858,
+  "unconstrained_slope": -0.09374436487932013,
+  "unconstrained_intercept": 1.2072202241444827,
+  "thread_counts": [
+    1,
+    2,
+    3,
+    4,
+    6
+  ],
+  "runs_per_count": [
+    5,
+    5,
+    5,
+    5,
+    5
+  ]
+}
